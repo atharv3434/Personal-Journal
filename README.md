@@ -2,7 +2,7 @@
 
 
 
-📅 Personal Journal (Python-Only Project)
+📅 Personal Journal 
 A Personal Journal is a simple console-based application that allows users to write, save, edit, delete, and search journal entries. It’s built entirely in Python with file-based storage for persistence.
 
 📌 Features
